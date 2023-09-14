@@ -1,0 +1,16 @@
+.slider{
+    width:100%;
+    height:400px;
+}
+.boxes{
+    width:290px;
+    height: 340px;;
+}
+.photo{
+    width:50px;
+    height:70px;
+}
+.services div{
+    font-size: 11px;
+}
+
